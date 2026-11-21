@@ -1,0 +1,13 @@
+# Environnement & Secrets
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Docker / Volumes locaux
+volumes/
+*.log
+
+# Node / Angular
+frontend/node_modules/
+frontend/.angular/
